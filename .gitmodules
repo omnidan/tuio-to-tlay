@@ -1,0 +1,3 @@
+[submodule "tlay-touch"]
+	path = tlay-touch
+	url = https://github.com/TouchLay/tlay-touch.git
